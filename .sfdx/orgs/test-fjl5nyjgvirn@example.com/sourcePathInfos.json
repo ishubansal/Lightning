@@ -1,0 +1,242 @@
+[
+    [
+        "C:\\dx\\Lightning\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\dx\\Lightning\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558955700144,
+            "changeTime": 1558955700144,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\dx\\Lightning\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\dx\\Lightning\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558955700144,
+            "changeTime": 1558955700144,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\dx\\Lightning\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\dx\\Lightning\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558955700146,
+            "changeTime": 1558955700146,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\dx\\Lightning\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\dx\\Lightning\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558956094228,
+            "changeTime": 1558956094228,
+            "contentHash": "bb5e9a367276d9ed486a41f39ea4853de1aaf7df",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\dx\\Lightning\\force-app\\main\\default\\aura\\quickContact",
+        {
+            "state": "n",
+            "sourcePath": "C:\\dx\\Lightning\\force-app\\main\\default\\aura\\quickContact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558956094253,
+            "changeTime": 1558956094253,
+            "contentHash": "eb0d662cc5ba3428d871a3d1cffff99090cee54b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\dx\\Lightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\dx\\Lightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1558956094250,
+            "changeTime": 1558956094250,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\dx\\Lightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\dx\\Lightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3472,
+            "modifiedTime": 1558956234448,
+            "changeTime": 1558956234448,
+            "contentHash": "7745a1f2dfcaf111ad287552617a59fd7ea50a95",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\dx\\Lightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\dx\\Lightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 244,
+            "modifiedTime": 1558956094232,
+            "changeTime": 1558956094232,
+            "contentHash": "1fef167e63ebd3c752ad07619dbcf3868495b377",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\dx\\Lightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\dx\\Lightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1558956094242,
+            "changeTime": 1558956094242,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\dx\\Lightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\dx\\Lightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1558956094253,
+            "changeTime": 1558956094253,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\dx\\Lightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\dx\\Lightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1558956094245,
+            "changeTime": 1558956094245,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\dx\\Lightning\\force-app\\main\\default\\aura\\quickContact\\quickContactController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\dx\\Lightning\\force-app\\main\\default\\aura\\quickContact\\quickContactController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1558956094239,
+            "changeTime": 1558956094239,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\dx\\Lightning\\force-app\\main\\default\\aura\\quickContact\\quickContactHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\dx\\Lightning\\force-app\\main\\default\\aura\\quickContact\\quickContactHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1558956094241,
+            "changeTime": 1558956094241,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\dx\\Lightning\\force-app\\main\\default\\aura\\quickContact\\quickContactRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\dx\\Lightning\\force-app\\main\\default\\aura\\quickContact\\quickContactRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1558956094243,
+            "changeTime": 1558956094243,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\dx\\Lightning\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\dx\\Lightning\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558956097636,
+            "changeTime": 1558956097636,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\dx\\Lightning",
+        {
+            "state": "n",
+            "sourcePath": "C:\\dx\\Lightning",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558956066399,
+            "changeTime": 1558956066399,
+            "contentHash": "41dd20db0b3511d55ae28fd5f9f30b575e5f7683",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
