@@ -1,3 +1,4 @@
  <aura:component>
 	<b>I want to eat pizza</b>
+	<b>I want to eat Burger</b>
 </aura:component>
